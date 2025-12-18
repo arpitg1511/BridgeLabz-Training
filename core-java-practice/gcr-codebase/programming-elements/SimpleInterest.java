@@ -1,5 +1,5 @@
 
-public class simple_interest {
+public class SimpleInterest {
 	public static void main(String[] args) {
 		int princ = 1000;
 		int rate = 10;

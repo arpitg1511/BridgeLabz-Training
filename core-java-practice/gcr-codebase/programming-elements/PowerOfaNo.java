@@ -1,5 +1,5 @@
 import java.util.*;
-public class power_of_a_no {
+public class PowerOfaNo {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
