@@ -1,5 +1,5 @@
 import java.util.*;
-class twosum {
+class Twosum {
     public static int[] twoSum(int[] arr, int sum) {
         int n = arr.length;
 
