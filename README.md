@@ -1,84 +1,127 @@
-# BridgeLabz-Training
-## 📅 Day 1 – 16 December
+# 🚀 BridgeLabz-Training  
 
-### 🔧 Git & GitHub
-- Created a GitHub repository and linked it with VS Code
-- Learned basic Git commands: `git add`, `git commit`, `git push`
-- Understood the purpose of version control and repositories
-- Worked with branches including `main` and `core-java-practice`
-- Learned how commits work and how code is pushed to GitHub
-- Understood repository structure and folder organization
+**BridgeLabz – Capgemini Training Repository**
 
-### 💻 Core Java – LeetCode Practice
-Solved basic Java problems to strengthen logic and problem-solving skills:
-
-- ✅ Two Sum  
-
-📌 **All Java solutions:**  
-👉 [Click here](https://github.com/arpitg1511/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+This repository documents my daily learning and hands-on practice during the **BridgeLabz – Capgemini training program**.  
+The training focuses on building **strong Core Java fundamentals**, improving **logical thinking**, and developing **problem-solving skills** aligned with industry standards.
 
 ---
 
-## 📅 Day 2 – 17 December
+## 🏗️ Repository Structure (High-Level)
 
-### 🔧 Git & Git Bash
-- Practiced Git Bash commands and understood the Git workflow in detail
-- Learned how to track new and modified files using `git status`
-- Used `git add`, `git commit`, and `git push` effectively
-- Improved understanding of branch-wise commits
-- Learned to manage repository structure properly
+```text
+📦 BridgeLabz-Training
+ ┣ 📂 core-java-practice
+    ┣ 📂 gcr-codebase
+      ┣ 📂 programming-elements
+      ┣ 📂 control-flow
+      ┣ 📂 arrays
+      ┣ 📂 string
+    ┣ 📂 leet-code-codebase
+    ┣ 📂 scenario-based
+ ┣ 📄 README.md
 
-### 💻 Core Java – Programming Elements
-Solved basic Java programs focused on arithmetic operations and formulas:
+```
+━━━━━━━━━━━━━━━━━━━━━━━
+## 🌿 Active Branch
 
-- ✅ Add Two Numbers  
-- ✅ Area of Circle  
-- ✅ Average of Three Numbers  
-- ✅ Celsius to Fahrenheit Conversion  
-- ✅ Kilometers to Miles Conversion  
-- ✅ Perimeter of Rectangle  
-- ✅ Power Calculation  
-- ✅ Simple Interest  
-- ✅ Volume of Cylinder  
-- ✅ Welcome to BridgeLabz Program  
+- 🔹 **core-java-practice**  
+  Current learning and implementation branch
 
-📌 **All Java programs:**  
+━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📅 DAILY PROGRESS LOG
+
+### 🟦 WEEK 1 (FOUNDATION AND BASICS)
+
+### 🗓️ Day 1 – 16 December 2025  
+**Focus:** Git, GitHub & Logic Building
+
+- 🔧 Set up GitHub repository and folder structure
+- 🔄 Practiced Git workflow:
+  - `git status`
+  - `git add`
+  - `git commit`
+  - `git push`
+- 🧠 Solved **1 LeetCode problems** in Java
+- 📌 Improved logical thinking and problem-solving skills
+
+- 📂 **Folder reference:**  
+  👉 [Click here](https://github.com/arpitg1511/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 17 December 2025  
+**Focus:** Core Java Fundamentals
+
+- 💻 Practiced introductory Core Java programs
+- 📚 Covered:
+  - Java syntax
+  - Input / Output handling
+  - Arithmetic operations
+  - Basic conditional logic
+
+📂 **Folder reference:**  
 👉 [Click here](https://github.com/arpitg1511/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
----
 
-## 📅 Day 3 – 18 December
+━━━━━━━━━━━━━━━━━━━━━━━
 
-### 🔧 Git & GitHub
-- Continued practicing Git and GitHub commands
-- Created and organized folders for structured learning
-- Added programs into Level 1 and Level 2 folders
-- Tracked file changes using `git status`
-- Committed and pushed code using `git add`, `git commit`, and `git push`
-- Improved understanding of clean commits and folder hierarchy
+### 🗓️ Day 3 – 18 December 2025  
+**Focus:** Programming Elements
 
-### 💻 Core Java – Programming Elements
+- 🧩 Implemented Core Java programs using:
+  - Variables and data types
+  - Operators
+  - Basic input/output
+  - Foundational logic building
 
-#### ✅ Level 1 (Basic Knowledge)
-Solved programs focused on:
-- User input handling
-- Variables and data types
-- Basic arithmetic operations
-- Applying simple formulas
-- Improving logical thinking
-
-#### ✅ Level 2 (Further Problem Solving)
-Solved programs focused on:
-- Operator precedence
-- Combining multiple operations
-- Logical expressions
-- Writing structured and optimized code
-
-### 💻 Core Java – LeetCode Practice
-Solved basic Java problems to strengthen logic and problem-solving skills:
-
-- ✅ Palindrome Number 
-- ✅ Remove Element 
-
-📌 **All Java programs (Level 1 & Level 2):**  
+📂 **Folder reference:**  
 👉 [Click here](https://github.com/arpitg1511/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 19 December 2025  
+**Focus:** Control Flow Statements
+
+- 🔁 Implemented programs using:
+  - `if`, `if-else`, `else-if`
+  - `switch-case`
+  - Looping constructs (`for`, `while`, `do-while`)
+
+📂 **Folder reference:**  
+👉 [Click here](https://github.com/arpitg1511/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+🗓️ Day 5 – 20 December 2025
+
+Focus: Arrays in Core Java
+
+📦 Implemented programs using arrays to store and process data
+
+🧮 Worked on:
+
+Storing odd and even numbers in separate arrays
+
+Finding and storing factors of a number in an array
+
+🔄 Understood:
+
+Array initialization and traversal
+
+Dynamic resizing of arrays using temporary arrays
+
+Index management while inserting elements
+
+🧠 Improved logic building with real-world array use cases
+
+📂 **Folder reference:**  
+👉 [Click here](https://github.com/arpitg1511/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ *This repository will be continuously updated throughout the BridgeLabz training journey.*
