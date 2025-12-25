@@ -9,6 +9,6 @@ public class SumOfNaturalNumbers {
 	}
 	
 	public static int naturalSum(int n) {
-		return ((n * (n - 1)) / 2); // Sum formula
+		return ((n * (n + 1)) / 2); // Sum formula
 	}
 }
