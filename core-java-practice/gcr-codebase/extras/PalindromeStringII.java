@@ -12,7 +12,7 @@ public class PalindromeStringII {
 	
 	public static boolean palindromeCheck(String str) {
 		
-		for(int i = 0; i < str.length(); i++) {
+		for(int i = 0; i < str.length() / 2; i++) {
 			if(str.charAt(i) != str.charAt(str.length() - i - 1)) return false;
 		}
 		
