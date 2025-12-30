@@ -1,9 +1,17 @@
+import java.util.*;
 public class Employee {
 
     // Attributes
     String name;
     int id;
     double salary;
+    
+    //Constructor Used
+    public Employee(String name, int id, double salary) {
+    	this.name = name;
+    	this.id = id;
+    	this.salary = salary;
+    }
 
     // Method to display employee details
     void displayDetails() {
@@ -14,15 +22,14 @@ public class Employee {
 
     public static void main(String[] args) {
 
+    	Scanner sc = new Scanner(System.in);
         // Creating Employee object
-        Employee emp = new Employee();
+        Employee emp = new Employee(sc.next(), sc.nextInt(), sc.nextDouble());
 
-        // Assigning values
-        emp.name = "Rohan";
-        emp.id = 1;
-        emp.salary = 500000;
 
         // Displaying details
         emp.displayDetails();
+        
+        sc.close();
     }
 }
