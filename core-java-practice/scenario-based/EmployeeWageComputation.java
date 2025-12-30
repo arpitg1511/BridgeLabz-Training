@@ -72,7 +72,7 @@ class EmployeeWage {
             case PART_TIME:
                 return PART_TIME_HOUR;   // UC 3: Part-time employee
             default:
-                return 0;                // UC 1: Absent employee
+                return ABSENT;                // UC 1: Absent employee
         }
     }
 }
