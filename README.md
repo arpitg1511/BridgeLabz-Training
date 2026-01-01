@@ -12,9 +12,9 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 ```text
 📦 BridgeLabz-Training
  ┣ 📂 core-java-practice
- ┃ 		┣ 📂 programming-elements
- ┃ 		┣ 📂 control-flow
- ┃ 	┣ 📂 leet-code-codebase
+ ┃ ┃		┣ 📂 programming-elements
+ ┃ ┃		┣ 📂 control-flow
+ ┃ ┃	┣ 📂 leet-code-codebase
  ┃ ┣ 📂 OOP
  ┃ ┣ 📂 collections     (to be added)
  ┃ ┣ 📂 exceptions      (to be added)
