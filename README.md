@@ -27,7 +27,10 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 ## 🌿 Active Branch
 
 - 🔹 **core-java-practice**  
-  Current learning and implementation branch
+  Core learning and implementation of java branch
+  
+ - 🔹 **oops-practice**  
+  Current learning and implementation of oops branch
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
