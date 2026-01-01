@@ -17,7 +17,7 @@ The training focuses on building **strong Core Java fundamentals**, improving **
  ┃ ┃  ┣ 📂 programming-elements
  ┃ ┣ 📂 scenario-based
  ┃ ┣ 📂 leet-code-codebase
- ┣ 📂 OOP
+ ┣ 📂 oops-practice
  ┣ 📂 collections     (to be added)
  ┣ 📂 exceptions      (to be added)
  ┣ 📄 README.md
