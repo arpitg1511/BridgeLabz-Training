@@ -60,7 +60,7 @@ public class LineProblem {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome to Line Comparision Computation Program");
-		LineComparisionProblem obj = new LineComparisionProblem();
+		LineProblem obj = new LineProblem();
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Enter first set of co-ordinates");
@@ -91,6 +91,8 @@ public class LineProblem {
 		else {
 			System.out.println(obj.compareLength(length1, length2));
 		}
+		
+		sc.close();
 	}
 
 }
