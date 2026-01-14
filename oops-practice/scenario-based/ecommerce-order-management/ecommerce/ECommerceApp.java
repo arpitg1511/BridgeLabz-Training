@@ -35,7 +35,8 @@ public class ECommerceApp {
 
         order.setStatus("Shipped");
         order.trackOrder();
-
+        
+        order.displayProducts();
         order.cancelOrder();
         order.trackOrder();
     }
