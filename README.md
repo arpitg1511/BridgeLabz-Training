@@ -246,16 +246,78 @@ Index management while inserting elements
 
 ### 🟦 WEEK 4 (OOPS SCENARIO-BASED PRACTICE)
 
-### 🗓️ Day 20 – 5 January 2026  
+### 🗓️ Day 1 – 5 January 2026  
 **Focus:** OOPS Scenario-Based Programming
 
 - 🧩 Solved multiple **real-world OOPS scenario-based problems** using Java  
 - 🧱 Applied **abstraction, inheritance, encapsulation, and interfaces** in practical use cases  
 - 🔁 Strengthened understanding of **polymorphism** through dynamic method behavior  
 - 📌 Improved confidence in designing **structured and logic-driven Java programs**
- 
+
 ━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 6 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world OOPS scenario-based problems** using Java  
+- 🧱 Applied **abstraction, inheritance, encapsulation, and interfaces** in practical use cases  
+- 🔁 Strengthened understanding of **polymorphism** through dynamic method behavior  
+- 📌 Improved confidence in designing **structured and logic-driven Java programs**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+ ### 🗓️ Day 3 – 7 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world OOPS scenario-based problems** using Java  
+- 🧱 Implemented **CRUD-based system designs** with proper class structure  
+- 🔁 Practiced **polymorphism and interface-driven logic** in practical scenarios  
+- 📌 Improved clarity in writing **clean, modular, and maintainable Java code**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 8 January 2026  
+**Focus:** Linked List & Review Session
+
+- 🧩 Learned **Linked List concepts** and solved multiple related questions  
+- 🧱 Implemented **Linked List operations** using Java (insertion, deletion, traversal)  
+- 🔁 Solved a few **scenario-based problems** to apply data structures with OOPS  
+- 📌 Attended a **review meeting** to discuss progress, logic, and improvements
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 5 – 9 January 2026  
+**Focus:** OOPS + CRUD Applications
+
+- 🏥 Hospital Patient Management System using OOPS & CRUD  
+- 🚗 Vehicle Rental Application with interfaces and inheritance  
+- ✈️ Flight Booking System using arrays, lists, and string operations  
+- 📌 Applied Encapsulation, Abstraction, Inheritance, Polymorphism
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 5 (OOPS SCENARIO-BASED AND DSA PRACTICE)
+
+### 🗓️ Day 1 – 12 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world, scenario-based OOPS problems** using Java  
+- 🧱 Implemented **abstraction, inheritance, encapsulation, and interfaces** in practical designs  
+- 🔁 Enhanced understanding of **polymorphism** through dynamic method execution  
+- 📌 Improved confidence in building **well-structured and logically sound Java applications**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 13 January 2026  
+**Focus:** Scenario-Based Programming + Data Structures
+
+- 🧩 Solved additional **real-world, scenario-based problems** using Java  
+- 📚 Implemented **Stack and Queue** to handle practical use cases  
+- 🗂️ Used **HashMap** for efficient data storage and retrieval  
+- 📌 Strengthened problem-solving skills by combining **OOPS with data structures**
  
+ ━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🧭 How to Navigate
 
 - 🔀 Use the **branch selector** on GitHub to switch to `core-java-practice`
