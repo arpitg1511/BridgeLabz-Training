@@ -10,5 +10,6 @@ public class AddressBook {
 		
 //		AddressBookService.addContact(c2);
 		AddressBookService.editContactByName("Arpit", c2);
+		AddressBookService.deleteContactByName("Aman");
 	}
 }
