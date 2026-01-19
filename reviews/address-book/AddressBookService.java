@@ -4,6 +4,7 @@ public class AddressBookService {
 		if(!AddressBookData.contactMap.containsKey(c.firstName)) {
 			AddressBookData.contactList.add(c);
 			AddressBookData.contactMap.put(c.firstName, c);
+			System.out.println("Contact added successfully");
 		}
 		
 		else {
