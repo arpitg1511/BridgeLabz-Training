@@ -15,7 +15,7 @@ public class StringUtilsTest {
 	
 	@Test
 	void isPalindromeTest() {
-		assertEquals(true, strUtil.isPalindrome("nitin"));
+		assertTrue(strUtil.isPalindrome("nitin"));
 	}
 	
 	@Test
