@@ -1,17 +1,12 @@
-import java.lang.annotation.Retention;
-import java.lang.annotation.RetentionPolicy;
-import java.lang.reflect.InvocationHandler;
-import java.lang.reflect.Method;
-import java.lang.reflect.Proxy;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+import java.lang.annotation.*;
+import java.lang.reflect.*;
+import java.util.*;
 
-// 1️⃣ Define the annotation
+// Define the annotation
 @Retention(RetentionPolicy.RUNTIME)
 @interface CacheResult {}
 
-// 2️⃣ Define an interface for the service
+// Define an interface for the service
 interface ExpensiveService {
     @CacheResult
     long computeFactorial(int n);
@@ -19,7 +14,7 @@ interface ExpensiveService {
     long simpleAdd(int a, int b);
 }
 
-// 3️⃣ Implement the service
+// Implement the service
 class ExpensiveServiceImpl implements ExpensiveService {
 
     @Override
@@ -45,7 +40,7 @@ class ExpensiveServiceImpl implements ExpensiveService {
     }
 }
 
-// 4️⃣ Dynamic proxy with caching
+// Dynamic proxy with caching
 class CachingHandler implements InvocationHandler {
 
     private final Object target;
@@ -76,7 +71,7 @@ class CachingHandler implements InvocationHandler {
     }
 }
 
-// 5️⃣ Demo main method
+// Demo main method
 public class CacheResultDemo {
 
     public static void main(String[] args) {
