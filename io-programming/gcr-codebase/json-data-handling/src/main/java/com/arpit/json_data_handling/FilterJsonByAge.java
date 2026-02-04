@@ -1,4 +1,4 @@
-package com.arpit.json_data_handling;
+package src.main.java.com.arpit.json_data_handling;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
