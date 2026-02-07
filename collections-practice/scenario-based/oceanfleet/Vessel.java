@@ -48,4 +48,9 @@ public class Vessel {
 	public String getVesselId() {
 		return vesselId;
 	}
+	
+	@Override
+	public String toString() {
+		return vesselId + "|" + vesselName + "|" + vesselType + "|" + averageSpeed + " knots";
+	}
 }
