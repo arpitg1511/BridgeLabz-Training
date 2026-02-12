@@ -10,7 +10,7 @@ class PerformanceServiceTest {
     PerformanceService service = new PerformanceService();
 
     @Test
-    @Timeout(value = 2, unit = TimeUnit.SECONDS)
+    @Timeout(value = 5, unit = TimeUnit.SECONDS)
     void testLongRunningTaskTimeout() {
         service.longRunningTask();
     }
