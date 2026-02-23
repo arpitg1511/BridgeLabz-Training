@@ -469,6 +469,120 @@ Index management while inserting elements
 🚀 Improved confidence in writing concise and efficient stream-based code
  
  ━━━━━━━━━━━━━━━━━━━━━━━
+ 
+ ### 🗓️ Day 4 – 5 February 2026  
+**Focus:** Factory Robot Hazard Analyzer System  
+- 🤖 Developed Factory Robot Hazard Analyzer System  
+- 🛠️ Built an application to evaluate robot hazard risk using validated inputs and custom exception handling  
+- ⚙️ Implemented risk score calculation based on precision, worker density, and machinery state  
+- 🔐 Applied custom exception handling with case-sensitive validation and formula-based computation
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+  ### 🗓️ Day 5 – 6 February 2026  
+**Focus:** Java Collectors and Stream Data Aggregation  
+- 📘 Studied Java Collectors and Stream Data Aggregation  
+- 🔄 Learned how Collectors work with `Stream.collect()` to transform, group, and summarize data  
+- 🗂️ Practiced converting streams to collections and joining strings using `toList`, `toSet`, `toMap`, and `joining()`  
+- 📊 Applied grouping, partitioning, and statistical operations using `groupingBy`, `partitioningBy`, and `summarizingInt()`  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 6 – 7 February 2026  
+**Focus:** OceanFleet Collection Scenario & Java Multithreading Concepts  
+- 🌊 Implemented OceanFleet vessel performance management scenario using collections  
+- 🧵 Studied Java multithreading fundamentals with practical examples  
+- ⚙️ Practiced creating threads using Thread class and Runnable interface, including lifecycle and state management  
+- 🔍 Compared Thread class vs Runnable interface and solved implementation-based practice problems  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 9 (JDBC & SONARQUBE PRACTICE)
+### 🗓️ Day 1 – 9 February 2026  
+**Focus:** Health Clinic JDBC Application & SonarQube Integration  
+- 🏥 Developed Health Clinic Management system using JDBC with MySQL database  
+- 🔄 Implemented patient registration, doctor management, appointment scheduling, visit history, and billing modules  
+- 💾 Applied JDBC for data persistence and database connectivity  
+- 📊 Integrated SonarQube for static code analysis and generated quality reports with execution evidence
+
+━━━━━━━━━━━━━━━━━━━━━━━ 
+
+### 🗓️ Day 2 – 10 February 2026  
+**Focus:** M1 Mock Examination  
+
+- 📝 Participated in M1 Mock Examination to evaluate preparation level  
+- ⏱️ Practiced exam-oriented problem solving with proper time management  
+- 📚 Reviewed key technical and conceptual topics during the test  
+- 🔍 Identified weak areas for focused improvement before the final M1 exam
+
+━━━━━━━━━━━━━━━━━━━━━━━ 
+
+### 🗓️ Day 3 – 11 February 2026  
+**Focus:** M1 Examination Revision  
+
+- 📘 Revised core technical concepts to strengthen exam preparation  
+- 🧠 Practiced important coding and conceptual questions  
+- 📝 Reinforced concepts through quick notes and practical examples  
+- 🚀 Focused on improving accuracy and speed for the M1 examination
+
+ ━━━━━━━━━━━━━━━━━━━━━━━ 
+
+ ### 🗓️ Day 4 – 12 February 2026  
+**Focus:** Parking Slot Allocation & Courier Shift Scheduler Systems  
+
+- 🅿️ Designed smart parking slot allocation system using Map, Queue, and OOP classes  
+- 🚗 Implemented waiting vehicle handling and nearest slot assignment logic  
+- 📦 Developed courier staff shift scheduling system using List and Map with duplicate prevention  
+- ⚠️ Applied custom exception handling using `NoParkingSlotAvailableException` and `ShiftAlreadyAssignedException`
+
+━━━━━━━━━━━━━━━━━━━━━━━ 
+
+### 🗓️ Day 5 – 13 February 2026  
+**Focus:** Java Stream Practice & SonarQube Testing  
+
+- 🔄 Solved multiple Stream API–based questions using functional programming concepts  
+- 📚 Practiced filtering, grouping, counting, and sorting using Streams and Collectors  
+- 🧪 Implemented SonarQube testing for static code analysis and quality improvement  
+- 📊 Reviewed code issues and improved maintainability based on SonarQube reports  
+
+━━━━━━━━━━━━━━━━━━━━━━━ 
+
+### 🗓️ Day 6 – 14 February 2026  
+**Focus:** M1 Revision & AEROVIGIL Scenario-Based Problem  
+
+- 🔁 Revisited important problems for M1 examination revision  
+- 🧠 Strengthened core concepts through targeted practice  
+- ✈️ Solved AEROVIGIL scenario-based problem using structured logic  
+- 🚀 Improved confidence in handling real-world problem statements
+
+━━━━━━━━━━━━━━━━━━━━━━━ 
+
+### 🟦 WEEK 10 (REFACTORING EMPLOYEE WAGE)
+### 🗓️ Day 1 – 16 February 2026  
+**Focus:** Employee Wage & Address Book using Four-Tier Architecture  
+
+- 🏗️ Implemented Employee Wage computation and Address Book applications using four-tier architecture  
+- 📚 Applied layered design with Presentation, Service, DAO, and Repository/Model separation  
+- 🗂️ Developed CRUD operations with Regex-based validations for structured data management  
+- 🧪 Performed JUnit testing to verify functionality and ensure modular, maintainable code
+
+━━━━━━━━━━━━━━━━━━━━━━━ 
+
+### 🗓️ Day 2 – 17 February 2026  
+- 🏗️ Started Quantitymeasurement Project in a new repsitory.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━ 
+
+### 🗓️ Day 3 – 18 February 2026 
+- 🏗️ Had a mock test related to m1 exam covering topics from java basics to dsa.
+- 📚 Solved Use case 2 of Quality Measurement App.
+
+━━━━━━━━━━━━━━━━━━━━━━━ 
+
+### 🗓️ Day 4 – 19 February 2026 
+- 🏗️ Solved Use case 3 and Use case 4 of Quality Measurement App.
+
 
 ## 🧭 How to Navigate
 
