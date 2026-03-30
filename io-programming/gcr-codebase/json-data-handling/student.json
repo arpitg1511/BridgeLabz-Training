@@ -1,0 +1,6 @@
+{
+  "name": "Arpit",
+  "age": 21,
+  "subjects": ["Maths", "Physics", "Computer Science"],
+  "email" : "arpit@gmail.com"
+}
